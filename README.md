@@ -7,14 +7,21 @@ I am a dedicated full-stack developer with a knack for solving complex problems 
 ## 🚀 My Tech Stack
 
 ### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8E44AD?style=flat&logo=javascript&logoColor=white)
 
 ### 🔧 Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -22,12 +29,14 @@ I am a dedicated full-stack developer with a knack for solving complex problems 
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?style=flat&logo=apache-cassandra&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 📦 Other Skills
@@ -36,6 +45,16 @@ I am a dedicated full-stack developer with a knack for solving complex problems 
 - Responsive Web Design
 - MVC Architecture
 - Problem Solving (200+ DSA problems solved)
+
+## 🚀 Projects & Contributions
+### 🌐 [Blogging Website](https://github.com/yatindra2004/Blog-Website)
+A dynamic platform for sharing and discovering inspiring stories and insightful articles.  
+🔹 Features: Rich text editor, content filtering, responsive UI, and more.
+
+### 💻 [E-commerce Website](https://github.com/yatindra2004/Ecommerce-Website)
+A full-stack e-commerce website with user authentication, secure login, product listings, shopping cart.  
+🔹 Technologies: React, Node.js, Express.js, MongoDB, Stripe.
+🚀 Open Source Contributions: Actively contributing to various open-source projects to help the tech community grow.
 
 
 <!--
