@@ -53,6 +53,7 @@ A dynamic platform for sharing and discovering inspiring stories and insightful 
 ### 💻 [E-commerce Website](https://github.com/yatindra2004/Ecommerce-Website)
 A full-stack e-commerce website with user authentication, secure login, product listings, shopping cart.  
 🔹 Technologies: React, Node.js, Express.js, MongoDB, Stripe.
+
 🚀 Open Source Contributions: Actively contributing to various open-source projects to help the tech community grow.
 
  ## 🔭 I’m currently working on
