@@ -4,7 +4,7 @@ I'm Yatindra Nath Pandey, a passionate and driven Full-Stack Developer with a st
 ## 🌟 About Me
 I am a dedicated full-stack developer with a knack for solving complex problems and a passion for continuous learning. I thrive in collaborative environments and enjoy contributing to open-source projects.
 
-## 🚀 My Tech Stack
+### 🚀 My Tech Stack
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -46,7 +46,7 @@ I am a dedicated full-stack developer with a knack for solving complex problems 
 - MVC Architecture
 - Problem Solving (200+ DSA problems solved)
 
-## 🚀 Projects & Contributions
+### 🚀 Projects & Contributions
 ### 🌐 [Blogging Website](https://github.com/yatindra2004/Blog-Website)
 A dynamic platform for sharing and discovering inspiring stories and insightful articles.  
 
@@ -56,15 +56,15 @@ A full-stack e-commerce website with user authentication, secure login, product 
 
 🚀 Open Source Contributions: Actively contributing to various open-source projects to help the tech community grow.
 
- ## 🔭 I’m currently working on
+### 🔭 I’m currently working on
 Food Delivery Using MERN STACK.
 Exploring new technologies to integrate into my projects.
 
-## 🌱 I’m currently learning
+### 🌱 I’m currently learning
 Advanced React and Redux techniques.
 Optimizing backend performance and security.
 
-## 💬 Ask me about
+### 💬 Ask me about
 Full-stack development
 Modern web technologies
 Open-source contributions
