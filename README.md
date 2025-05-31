@@ -49,14 +49,26 @@ I am a dedicated full-stack developer with a knack for solving complex problems 
 ## 🚀 Projects & Contributions
 ### 🌐 [Blogging Website](https://github.com/yatindra2004/Blog-Website)
 A dynamic platform for sharing and discovering inspiring stories and insightful articles.  
-🔹 Features: Rich text editor, content filtering, responsive UI, and more.
 
 ### 💻 [E-commerce Website](https://github.com/yatindra2004/Ecommerce-Website)
 A full-stack e-commerce website with user authentication, secure login, product listings, shopping cart.  
 🔹 Technologies: React, Node.js, Express.js, MongoDB, Stripe.
 🚀 Open Source Contributions: Actively contributing to various open-source projects to help the tech community grow.
 
+ ## 🔭 I’m currently working on
+Food Delivery Using MERN STACK.
+Exploring new technologies to integrate into my projects.
 
+## 🌱 I’m currently learning
+Advanced React and Redux techniques.
+Optimizing backend performance and security.
+
+## 💬 Ask me about
+Full-stack development
+Modern web technologies
+Open-source contributions
+
+⚡ Fun fact: I believe that the best way to predict the future is to invent it. - Alan Kay
 <!--
 **yatindra2004/yatindra2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
