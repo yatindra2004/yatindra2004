@@ -46,7 +46,7 @@ I am a dedicated full-stack developer with a knack for solving complex problems 
 - MVC Architecture
 - Problem Solving (200+ DSA problems solved)
 
-### 🚀 Projects & Contributions
+## 🚀 Projects & Contributions
 ### 🌐 [Blogging Website](https://github.com/yatindra2004/Blog-Website)
 A dynamic platform for sharing and discovering inspiring stories and insightful articles.  
 
@@ -70,7 +70,7 @@ A full-stack e-commerce website with user authentication, secure login, product 
 - Open-source contributions
 
 
-⚡ Fun fact: I believe that the best way to predict the future is to invent it. - Alan Kay
+##⚡ Fun fact: I believe that the best way to predict the future is to invent it. - Alan Kay
 <!--
 **yatindra2004/yatindra2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
