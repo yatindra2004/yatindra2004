@@ -56,18 +56,19 @@ A full-stack e-commerce website with user authentication, secure login, product 
 
 🚀 Open Source Contributions: Actively contributing to various open-source projects to help the tech community grow.
 
-### 🔭 I’m currently working on
-Food Delivery Using MERN STACK.
-Exploring new technologies to integrate into my projects.
+## 🔭 I’m currently working on
+- Food Delivery application using MERN Stack
+- Exploring new technologies to integrate into my projects
 
-### 🌱 I’m currently learning
-Advanced React and Redux techniques.
-Optimizing backend performance and security.
+## 🌱 I’m currently learning
+- Advanced React and Redux techniques
+- Optimizing backend performance and security
 
-### 💬 Ask me about
-Full-stack development
-Modern web technologies
-Open-source contributions
+## 💬 Ask me about
+- Full-stack development
+- Modern web technologies
+- Open-source contributions
+
 
 ⚡ Fun fact: I believe that the best way to predict the future is to invent it. - Alan Kay
 <!--
