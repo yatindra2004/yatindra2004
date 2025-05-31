@@ -69,8 +69,8 @@ A full-stack e-commerce website with user authentication, secure login, product 
 - Modern web technologies
 - Open-source contributions
 
-
-##⚡ Fun fact: I believe that the best way to predict the future is to invent it. - Alan Kay
+##
+⚡ Fun fact: I believe that the best way to predict the future is to invent it. - Alan Kay
 <!--
 **yatindra2004/yatindra2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
